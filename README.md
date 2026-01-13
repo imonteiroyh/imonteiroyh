@@ -1,9 +1,8 @@
 ### Hello! 👋
 
-I am Vandemberg Monteiro. I am a Artificial Intelligence, Machine Learning and Data Science enthusiast and developer gratuating on Computer Engineering at Federal University of Ceará.
+Data Scientist experienced in designing and deploying data-driven solutions across finance and healthcare.
 
-### ⚡ One line that describes me best?
-A hardworking guy looking forward to gain experience and build amazing projects.
+Skilled at translating complex analytics into actionable insights and supporting effective decision-making with robust, impactful solutions.
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/vandemberg-monteiro)
