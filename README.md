@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Data Scientist experienced in designing and deploying data-driven solutions across finance and healthcare.
+I’m a Senior Data Scientist working across finance (credit risk) and healthcare AI, focused on building end-to-end, production-ready solutions with Machine Learning & Deep Learning.
 
 Skilled at translating complex analytics into actionable insights and supporting effective decision-making with robust, impactful solutions.
 
